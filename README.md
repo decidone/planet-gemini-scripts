@@ -27,21 +27,21 @@ Planet Gemini 개발 과정에서 작성한 핵심 코드들을 기능별로 정
 
 ## 주요 구현 샘플
 
-| 샘플        | 주제                                              | 문서                                                           |
-| --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| 렌더링 최적화   | Animator 컴포넌트 제거 및 셰이더 기반 애니메이션 전환              | [RenderingOptimization](RenderingOptimization/README.md)     |
-| 시야 시스템    | 시야 밖 몬스터 가리기, 부드러운 시야 경계 처리, 타일맵 마스킹            | [FogOfWar](FogOfWar/README.md)                               |
-| 연산 최적화    | Update() 폴링을 이벤트 기반 캐싱으로 리팩토링                   | [EventDrivenOptimization](EventDrivenOptimization/README.md) |
-| 절차적 맵 생성  | Perlin Noise 기반 지형·자원 생성                        | [ProceduralMapGeneration](ProceduralMapGeneration/README.md) |
-| 인벤토리      | ScriptableObject 기반 데이터, 슬롯 시스템, 오브젝트 풀링        | [InventoryItem](InventoryItem/README.md)                     |
-| 생산 · 공장   | JSON 데이터(Recipe) 기반 생산 파이프라인 구축                 | [ProductionFactory](ProductionFactory/README.md)             |
-| 에너지       | 에너지 그룹 단위 관리(생성·병합·분리·제거) 및 생산 효율 계산            | [EnergySystem](EnergySystem/README.md)                       |
-| 상점        | NPC 거래 중심의 경제 시스템 구축 및 후반 아이템 수급 경로 제공          | [Shop](Shop/README.md)                                       |
-| 세이브 · 로드  | JSON 직렬화 및 Brotli 압축을 활용한 데이터 관리                | [SaveLoad](SaveLoad/README.md)                               |
-| 멀티플레이 기반  | NGO, Steamworks, Facepunch Transport 기반 네트워크 구현 | [MultiplayerBase](MultiplayerBase/README.md)                 |
-| 멀티플레이 동기화 | 슬라이딩 윈도우로 상태 일괄 전송 폭주에 따른 접속 불가 문제 해결           | [MultiplayerSync](MultiplayerSync/README.md)                 |
-| 엔진 업그레이드  | 런타임 보안 취약점(CVE-2025-59489) 대응을 위한 엔진 버전 업그레이드   | [UnityVersionUpgrade](UnityVersionUpgrade/README.md)         |
-| 라이브 이슈 대응 | AMD GPU 환경의 애니메이션 렌더링 오류 원인 분석 및 해결             | [PostLaunch](PostLaunch/README.md)                           |
+| 샘플 | 주제 | 문서 |
+| --- | --- | --- |
+| 렌더링 최적화 | Animator 컴포넌트 제거 및 셰이더 기반 애니메이션 전환 | [RenderingOptimization](RenderingOptimization/README.md) |
+| 시야 시스템 | 시야 밖 몬스터 가리기, 부드러운 시야 경계 처리, 타일맵 마스킹 | [FogOfWar](FogOfWar/README.md) |
+| 연산 최적화 | Update() 폴링을 이벤트 기반 캐싱으로 리팩토링 | [EventDrivenOptimization](EventDrivenOptimization/README.md) |
+| 절차적 맵 생성 | Perlin Noise 기반 지형·자원 생성 | [ProceduralMapGeneration](ProceduralMapGeneration/README.md) |
+| 인벤토리 | ScriptableObject 기반 데이터, 슬롯 시스템, 오브젝트 풀링 | [InventoryItem](InventoryItem/README.md) |
+| 생산 · 공장 | JSON 데이터(Recipe) 기반 생산 파이프라인 구축 | [ProductionFactory](ProductionFactory/README.md) |
+| 에너지 | 에너지 그룹 단위 관리(생성·병합·분리·제거) 및 생산 효율 계산 | [EnergySystem](EnergySystem/README.md) |
+| 상점 | NPC 거래 중심의 경제 시스템 구축 및 후반 아이템 수급 경로 제공 | [Shop](Shop/README.md) |
+| 세이브 · 로드 | JSON 직렬화 및 Brotli 압축을 활용한 데이터 관리 | [SaveLoad](SaveLoad/README.md) |
+| 멀티플레이 기반 | NGO, Steamworks, Facepunch Transport 기반 네트워크 구현 | [MultiplayerBase](MultiplayerBase/README.md) |
+| 멀티플레이 동기화 | 슬라이딩 윈도우 알고리즘을 도입하여 상태 일괄 전송 폭주로 인한 접속 장애 해결 | [MultiplayerSync](MultiplayerSync/README.md) |
+| 엔진 업그레이드 | 런타임 보안 취약점(CVE-2025-59489) 대응을 위한 엔진 버전 업그레이드 | [UnityVersionUpgrade](UnityVersionUpgrade/README.md) |
+| 라이브 이슈 대응 | AMD GPU 환경의 애니메이션 렌더링 오류 원인 분석 및 해결 | [PostLaunch](PostLaunch/README.md) |
 
 
 ## 공개 범위

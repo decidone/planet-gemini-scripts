@@ -9,13 +9,13 @@ Netcode for GameObjects(NGO)와 Facepunch Steamworks를 활용해 별도 전용 
 
 ## 구성 요소와 역할
 
-| 구성 요소                                            | 역할                                                              |
-| ------------------------------------------------ | --------------------------------------------------------------- |
-| Netcode for GameObjects                          | 호스트-클라이언트 세션 및 RPC 기반 동기화를 담당하는 네트워크 프레임워크입니다.                  |
-| Steamworks + Facepunch Transport                 | Steam 로비 매치메이킹 및 NGO 트래픽을 Steam P2P 네트워크로 전달하는 트랜스포트입니다.        |
-| `SteamManager`                                   | 로비 생성·참여, P2P 세션 수락·종료, Steam 이벤트를 처리하는 관리 클래스입니다.              |
-| `GeminiNetworkManager`                           | 직접 전송이 불가능한 GameObject 및 ScriptableObject를 정수 인덱스로 매핑하여 동기화합니다. |
-| `SteamFriendLobbyFetcher` / `LobbiesListManager` | 게임을 플레이 중인 친구의 열린 로비를 조회하여 프로필/아바타와 함께 목록 UI로 구성합니다.            |
+| 구성 요소 | 역할 |
+| --- | --- |
+| Netcode for GameObjects | 호스트-클라이언트 세션 및 RPC 기반 동기화를 담당하는 네트워크 프레임워크입니다. |
+| Steamworks + Facepunch Transport | Steam 로비 매치메이킹 및 NGO 트래픽을 Steam P2P 네트워크로 전달하는 트랜스포트입니다. |
+| `SteamManager` | 로비 생성·참여, P2P 세션 수락·종료, Steam 이벤트를 처리하는 관리 클래스입니다. |
+| `GeminiNetworkManager` | 직접 전송이 불가능한 GameObject 및 ScriptableObject를 정수 인덱스로 매핑하여 동기화합니다. |
+| `SteamFriendLobbyFetcher` / `LobbiesListManager` | 게임을 플레이 중인 친구의 열린 로비를 조회하여 프로필/아바타와 함께 목록 UI로 구성합니다. |
 
 
 ## 동작 흐름
