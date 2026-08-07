@@ -6,8 +6,6 @@
 
 관련 원본: [`Inventory.cs`](./Inventory.cs) (구독자 예시 `Production.cs`는 [ProductionFactory](../ProductionFactory/README.md) 참고)
 
-> 🎞️ _데모 GIF 예정_
-
 
 ## 구성 요소와 역할
 

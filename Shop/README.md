@@ -4,7 +4,7 @@
 
 관련 원본: [`Merchandise.cs`](./Merchandise.cs) · [`Shop.cs`](./Shop.cs) · [`AutoSeller.cs`](./AutoSeller.cs) · [`AutoBuyer.cs`](./AutoBuyer.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/4bfe844d-79f8-4e06-b131-846da9ae4731" />
 
 
 ## 구성 요소와 역할

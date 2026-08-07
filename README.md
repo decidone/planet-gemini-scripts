@@ -11,13 +11,7 @@ Planet Gemini 개발 과정에서 작성한 핵심 코드들을 기능별로 정
 
 ## 플레이 영상
 
-| 공장 | 타워 디펜스 |
-| :---: | :---: |
-|  |  |
-
-| 멀티플레이 | 맵 |
-| :---: | :---: |
-|  |  |
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/6ef5fff2-c40f-4c01-a001-adf2ea6db191" />
 
 
 ## 사용 기술 및 역할

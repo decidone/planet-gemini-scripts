@@ -4,7 +4,7 @@
 
 관련 원본: [`DataManager.cs`](./DataManager.cs) · [`Compression.cs`](./Compression.cs) · [`LoadManager.cs`](./LoadManager.cs) · [`SaveData.cs`](./SaveData.cs) · [`StructureSaveData.cs`](./StructureSaveData.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/703da2ca-9e0b-44be-a315-4564f3e7f291" />
 
 
 ## 구성 요소와 역할

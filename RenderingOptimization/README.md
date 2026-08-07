@@ -6,8 +6,6 @@
 
 관련 원본: [`ShaderAnimController.cs`](./ShaderAnimController.cs) · [`ShaderAnimated.shader`](./ShaderAnimated.shader) · [`ShaderAnimData.cs`](./ShaderAnimData.cs) · [`ShaderAnimSelector.cs`](./ShaderAnimSelector.cs)
 
-> 🎞️ _데모 GIF 예정_
-
 
 ## 구성 요소와 역할
 

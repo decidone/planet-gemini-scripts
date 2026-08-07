@@ -4,7 +4,7 @@
 
 관련 원본: [`Production.cs`](./Production.cs) · [`Recipe.cs`](./Recipe.cs) · [`RecipeList.cs`](./RecipeList.cs) · [`Smelter.cs`](./Smelter.cs) · [`UnitFactory.cs`](./UnitFactory.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/b3b2f1c1-1f95-4e8d-b0c2-42996b8a7e15" />
 
 
 ## 구성 요소와 역할

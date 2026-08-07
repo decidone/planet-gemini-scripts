@@ -6,7 +6,7 @@
 
 관련 원본: [`MonsterFogVisible.shader`](./MonsterFogVisible.shader) · [`AlphaCameraController.cs`](./AlphaCameraController.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/83c91f25-65a6-497d-a631-e709db2f547d" />
 
 
 ## 구성 요소와 역할

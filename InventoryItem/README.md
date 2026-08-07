@@ -4,7 +4,7 @@
 
 관련 원본: [`Item.cs`](./Item.cs) · [`ItemList.cs`](./ItemList.cs) · [`Inventory.cs`](./Inventory.cs) · [`Slot.cs`](./Slot.cs) · [`ItemPoolManager.cs`](./ItemPoolManager.cs) · [`ItemProps.cs`](./ItemProps.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/9e2f6fc3-4e65-4f83-a521-55ad98d1b2ff" />
 
 
 ## 구성 요소와 역할

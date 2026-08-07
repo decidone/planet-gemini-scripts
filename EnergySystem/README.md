@@ -4,7 +4,7 @@
 
 관련 원본: [`EnergyGroup.cs`](./EnergyGroup.cs) · [`EnergyGroupConnector.cs`](./EnergyGroupConnector.cs) · [`LDConnector.cs`](./LDConnector.cs) · [`EnergyBattery.cs`](./EnergyBattery.cs) · [`EnergyGenerator.cs`](./EnergyGenerator.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/a93a3116-db5f-4a42-94ff-62f943332090" />
 
 
 ## 구성 요소와 역할

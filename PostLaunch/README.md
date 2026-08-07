@@ -6,8 +6,6 @@
 
 관련 원본: [`ShaderAnimated.shader`](./ShaderAnimated.shader)
 
-> 🎞️ _데모 GIF 예정_
-
 
 ## 증상
 

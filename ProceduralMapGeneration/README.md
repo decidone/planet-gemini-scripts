@@ -6,7 +6,7 @@
 
 관련 원본: [`MapGenerator.cs`](./MapGenerator.cs) · [`Biome.cs`](./Biome.cs) · [`Cell.cs`](./Cell.cs) · [`Map.cs`](./Map.cs)
 
-> 🎞️ _데모 GIF 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/48ae1bf5-10ca-4dc3-a716-775614decf99" />
 
 
 ## 구성 요소와 역할

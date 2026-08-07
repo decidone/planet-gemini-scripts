@@ -4,8 +4,6 @@
 
 관련 원본: [`NetworkObjManager.cs`](./NetworkObjManager.cs)
 
-> 🎞️ _데모 GIF 예정_
-
 
 ## 구성 요소와 역할
 
