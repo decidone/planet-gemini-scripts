@@ -4,7 +4,7 @@
 
 관련 스크립트: [`Item.cs`](./Item.cs) · [`ItemList.cs`](./ItemList.cs) · [`Inventory.cs`](./Inventory.cs) · [`Slot.cs`](./Slot.cs) · [`ItemPoolManager.cs`](./ItemPoolManager.cs) · [`ItemProps.cs`](./ItemProps.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/8deee5f3-73e7-4187-b987-9f11761be7bc" />
 
 
 ## 구성 요소와 역할

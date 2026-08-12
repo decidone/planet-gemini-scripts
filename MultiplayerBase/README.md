@@ -4,7 +4,7 @@ Netcode for GameObjects(NGO)와 Facepunch Steamworks를 활용해 별도 전용 
 
 관련 스크립트: [`SteamManager.cs`](./SteamManager.cs) · [`GeminiNetworkManager.cs`](./GeminiNetworkManager.cs) · [`SteamFriendLobbyFetcher.cs`](./SteamFriendLobbyFetcher.cs) · [`LobbiesListManager.cs`](./LobbiesListManager.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/09d21c91-56bd-4a31-8d51-7a8faaa5e5f4" />
 
 
 ## 구성 요소와 역할

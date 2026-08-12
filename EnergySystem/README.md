@@ -4,7 +4,7 @@
 
 관련 스크립트: [`EnergyGroup.cs`](./EnergyGroup.cs) · [`EnergyGroupConnector.cs`](./EnergyGroupConnector.cs) · [`LDConnector.cs`](./LDConnector.cs) · [`EnergyBattery.cs`](./EnergyBattery.cs) · [`EnergyGenerator.cs`](./EnergyGenerator.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/36b26d1c-6859-4c2c-8f14-893dcbde3fac" />
 
 
 ## 구성 요소와 역할

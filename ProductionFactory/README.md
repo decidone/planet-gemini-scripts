@@ -4,7 +4,7 @@
 
 관련 스크립트: [`Production.cs`](./Production.cs) · [`Recipe.cs`](./Recipe.cs) · [`RecipeList.cs`](./RecipeList.cs) · [`Smelter.cs`](./Smelter.cs) · [`UnitFactory.cs`](./UnitFactory.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/fc7523ba-ba26-460a-a3bb-6261ad9b65e0" />
 
 
 ## 구성 요소와 역할

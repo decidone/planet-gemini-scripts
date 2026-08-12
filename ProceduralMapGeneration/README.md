@@ -6,7 +6,7 @@
 
 관련 스크립트: [`MapGenerator.cs`](./MapGenerator.cs) · [`Biome.cs`](./Biome.cs) · [`Cell.cs`](./Cell.cs) · [`Map.cs`](./Map.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/1a553617-08c9-4116-9c85-5d55539273e4" />
 
 
 ## 구성 요소와 역할

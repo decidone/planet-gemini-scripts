@@ -4,7 +4,7 @@
 
 관련 스크립트: [`DataManager.cs`](./DataManager.cs) · [`Compression.cs`](./Compression.cs) · [`LoadManager.cs`](./LoadManager.cs) · [`SaveData.cs`](./SaveData.cs) · [`StructureSaveData.cs`](./StructureSaveData.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/089b3ce7-bfed-4453-a59e-3510ad2dc2ef" />
 
 
 ## 구성 요소와 역할

@@ -6,7 +6,7 @@
 
 관련 스크립트: [`MonsterFogVisible.shader`](./MonsterFogVisible.shader) · [`AlphaCameraController.cs`](./AlphaCameraController.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/a99e1f47-4cc2-4bf3-8cec-2f9be5eb0d7e" />
 
 
 ## 구성 요소와 역할

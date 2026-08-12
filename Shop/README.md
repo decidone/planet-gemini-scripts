@@ -4,7 +4,7 @@
 
 관련 스크립트: [`Merchandise.cs`](./Merchandise.cs) · [`Shop.cs`](./Shop.cs) · [`AutoSeller.cs`](./AutoSeller.cs) · [`AutoBuyer.cs`](./AutoBuyer.cs)
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/b839a689-6676-418c-b416-a47c12c454dc" />
 
 
 ## 구성 요소와 역할

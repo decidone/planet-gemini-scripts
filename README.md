@@ -11,7 +11,7 @@ Planet Gemini 개발 과정에서 작성한 핵심 코드들을 기능별로 정
 
 ## 플레이 영상
 
-_영상 추가 예정_
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/fa61bbed-f9b7-4e06-925f-f6f640d408ce" />
 
 
 ## 사용 기술 및 역할
